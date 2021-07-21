@@ -10,7 +10,7 @@
 Download using pip via pypi.
 
 ```bash
-$ pip install pygifconvt_uydw --upgrade
+$ pip install pygifconvt_ydw --upgrade
   or
 $ pip install git+https://github.com/merkur78/pygifconvt_ydw.git
 ```
